@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582830589612",
+    "project_id": "flutterfirenotes-f161d",
+    "storage_bucket": "flutterfirenotes-f161d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582830589612:android:8a6881b9ace2f85fe14109",
+        "android_client_info": {
+          "package_name": "com.example.notepad_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582830589612-uq0d4570r3go6fufjnppilcblha4vaah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWP95D4_K7aZYQarVMjJ_2MHrR-nhJ8Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582830589612-uq0d4570r3go6fufjnppilcblha4vaah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
